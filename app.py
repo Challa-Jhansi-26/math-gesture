@@ -20,7 +20,7 @@ with col2:
     output_text_area = st.subheader("")
 
 # Set up the API key for Google AI
-genai.configure(api_key="AIzaSyCI6Ng0XHh0Sxa9tShJi3ewvyRQ2Ot31mU")
+genai.configure(api_key="YOUR_GOOGLE_API_KEY")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize webcam capture (use 0 for default webcam)

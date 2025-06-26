@@ -1,8 +1,7 @@
-opencv-python
-cvzone
 streamlit
-google-generativeai
+opencv-python
 Pillow
 numpy
 mediapipe
-
+google-generativeai
+cvzone @ git+https://github.com/cvzone/cvzone.git

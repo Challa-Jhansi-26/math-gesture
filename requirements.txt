@@ -1,0 +1,8 @@
+opencv-python
+cvzone
+streamlit
+google-generativeai
+Pillow
+numpy
+mediapipe
+
